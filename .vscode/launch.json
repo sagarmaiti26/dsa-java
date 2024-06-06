@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "stringstr",
+            "request": "launch",
+            "mainClass": "Strings.stringstr",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "countingSort",
+            "request": "launch",
+            "mainClass": "Algorithms.countingSort",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "Numbers.binaryToDecimal",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "decimaltoBinary",
+            "request": "launch",
+            "mainClass": "Numbers.decimaltoBinary",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "Numbers.prime",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "largestString",
+            "request": "launch",
+            "mainClass": "Strings.largestString",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "location",
+            "request": "launch",
+            "mainClass": "Strings.location",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Strings.palindrome",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "shortestPath",
+            "request": "launch",
+            "mainClass": "Strings.shortestPath",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "stringCompression",
+            "request": "launch",
+            "mainClass": "Strings.stringCompression",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "toUpperCase",
+            "request": "launch",
+            "mainClass": "Strings.toUpperCase",
+            "projectName": "Java DSA_8d966fcb"
+        }
+    ]
+}
