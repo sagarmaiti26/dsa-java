@@ -2,7 +2,7 @@ package Strings;
 
 public class largestString {
     static String largeString(String[] arr) {
-        String large = new String();
+        String large ;
         large = arr[0];
         for (String string : arr) {
             int compare = large.compareTo(string);

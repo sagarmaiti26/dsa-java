@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "iThBit",
+            "request": "launch",
+            "mainClass": "BitManupulation.iThBit",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "bitChecker",
+            "request": "launch",
+            "mainClass": "BitManupulation.bitChecker",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "oddOrEven",
+            "request": "launch",
+            "mainClass": "oddOrEven",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEven",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "immutable",
+            "request": "launch",
+            "mainClass": "Strings.immutable",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "lowerCaseCount",
+            "request": "launch",
+            "mainClass": "Strings.lowerCaseCount",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
             "name": "stringstr",
             "request": "launch",
             "mainClass": "Strings.stringstr",
