@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "Algorithms.DivideAndConquer.quickSort",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "DivideAndConquer.quickSort",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "fastExponantiation",
+            "request": "launch",
+            "mainClass": "BitManupulation.fastExponantiation",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "CountOfSet",
+            "request": "launch",
+            "mainClass": "BitManupulation.CountOfSet",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "powerOf2",
+            "request": "launch",
+            "mainClass": "BitManupulation.powerOf2",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
             "name": "iThBit",
             "request": "launch",
             "mainClass": "BitManupulation.iThBit",
