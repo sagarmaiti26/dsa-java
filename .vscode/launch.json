@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "Practice.hello",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "sudokuSolver",
+            "request": "launch",
+            "mainClass": "Algorithms.Backtracking.sudokuSolver",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Algorithms.Recursion.reverseString",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "findPermutations",
+            "request": "launch",
+            "mainClass": "Algorithms.Backtracking.findPermutations",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "removeChar",
+            "request": "launch",
+            "mainClass": "Algorithms.Recursion.removeChar",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "stringSubset",
+            "request": "launch",
+            "mainClass": "Algorithms.Backtracking.stringSubset",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "backtrackOnArray",
+            "request": "launch",
+            "mainClass": "Algorithms.Backtracking.backtrackOnArray",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "Algorithms.Backtracking.NQueens",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "searchRotatedSorted",
+            "request": "launch",
+            "mainClass": "Arrays.searchRotatedSorted",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "Algorithms.DivideAndConquer.mergeSort",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
             "name": "quickSort",
             "request": "launch",
             "mainClass": "Algorithms.DivideAndConquer.quickSort",
