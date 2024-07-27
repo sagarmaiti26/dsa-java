@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stockSpan",
+            "request": "launch",
+            "mainClass": "Stack.stockSpan",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "reverseStack",
+            "request": "launch",
+            "mainClass": "Stack.reverseStack",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Stack.reverseString",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "pushBottom",
+            "request": "launch",
+            "mainClass": "Stack.pushBottom",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "ColllectionStack",
+            "request": "launch",
+            "mainClass": "Stack.ColllectionStack",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "linkedListStack",
+            "request": "launch",
+            "mainClass": "Stack.linkedListStack",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "arrayListStack",
+            "request": "launch",
+            "mainClass": "Stack.arrayListStack",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "doublyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.doublyLinkedList",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "LinkList",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkList",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "LinkedList.Linkedlist",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "Linked_List",
+            "request": "launch",
+            "mainClass": "LinkedList.Linked_List",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "linear_Search",
+            "request": "launch",
+            "mainClass": "Algorithms.Searching.linear_Search",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "collectionLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.collectionLinkedList",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "LinkedList.palindrome",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedList",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "pairSum2",
+            "request": "launch",
+            "mainClass": "ArrayList.pairSum2",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "pairSum",
+            "request": "launch",
+            "mainClass": "ArrayList.pairSum",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "WaterLevel",
+            "request": "launch",
+            "mainClass": "ArrayList.WaterLevel",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "RainWater",
+            "request": "launch",
+            "mainClass": "BruteForce.RainWater",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "twoDArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList.twoDArrayList",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ArrayList.Main",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "Algorithms.Sorting.bubbleSort",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "Practice.hello",
