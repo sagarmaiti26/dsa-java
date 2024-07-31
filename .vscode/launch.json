@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nonRepeatingChar",
+            "request": "launch",
+            "mainClass": "Queue.nonRepeatingChar",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "stackUse2Queue",
+            "request": "launch",
+            "mainClass": "Queue.stackUse2Queue",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "stackQueue",
+            "request": "launch",
+            "mainClass": "Queue.stackQueue",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "collection",
+            "request": "launch",
+            "mainClass": "Queue.collection",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "linkedListQueue",
+            "request": "launch",
+            "mainClass": "Queue.linkedListQueue",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "arrayQueue",
+            "request": "launch",
+            "mainClass": "Queue.arrayQueue",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "duplicateParenthesis",
+            "request": "launch",
+            "mainClass": "Stack.duplicateParenthesis",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "validParenthesis",
+            "request": "launch",
+            "mainClass": "Stack.validParenthesis",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
+            "name": "nextGreaterElement",
+            "request": "launch",
+            "mainClass": "Stack.nextGreaterElement",
+            "projectName": "Java DSA_8d966fcb"
+        },
+        {
+            "type": "java",
             "name": "stockSpan",
             "request": "launch",
             "mainClass": "Stack.stockSpan",
