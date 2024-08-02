@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueUsingDeque",
+            "request": "launch",
+            "mainClass": "Deque.QueueUsingDeque",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingDeque",
+            "request": "launch",
+            "mainClass": "Deque.StackUsingDeque",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "CollectionFrame",
+            "request": "launch",
+            "mainClass": "Deque.CollectionFrame",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "reverseQueue",
+            "request": "launch",
+            "mainClass": "Queue.reverseQueue",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "interLeave",
+            "request": "launch",
+            "mainClass": "Queue.interLeave",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Strings.palindrome",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "largestString",
+            "request": "launch",
+            "mainClass": "Strings.largestString",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "RainWater",
+            "request": "launch",
+            "mainClass": "BruteForce.RainWater",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
             "name": "nonRepeatingChar",
             "request": "launch",
             "mainClass": "Queue.nonRepeatingChar",

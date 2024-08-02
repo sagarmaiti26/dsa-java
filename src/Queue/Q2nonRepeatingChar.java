@@ -3,7 +3,7 @@ package Queue;
 import java.util.*;
 
 //Given an input stream of characters consisting only of lowercase alphabets.  Find the first non-repeating character in the input string each time a new character is inserted into the stream. If there is no non-repeating character, then append '-1' to the answer.
-public class nonRepeatingChar {
+public class Q2nonRepeatingChar {
     public static String nonRepeat(String s) {
         String res = "";
         Queue<Character> q = new LinkedList<>();
