@@ -20,6 +20,11 @@ public class reverseQueue {
             q.add(i + 1);
         }
         System.out.println(reverse(q));
+
+        
     }
+
+
+
 
 }

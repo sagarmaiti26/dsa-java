@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearchTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BinarySearchTree",
+            "projectName": "Java DSA_11500ac"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BinarySearchTree",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "subTree",
+            "request": "launch",
+            "mainClass": "Trees.subTree",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "Numbers.binaryToDecimal",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTrees",
+            "request": "launch",
+            "mainClass": "Trees.BinaryTrees",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "Comparator",
+            "request": "launch",
+            "mainClass": "Algorithms.Greedy.Comparator",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
+            "name": "activitySelection",
+            "request": "launch",
+            "mainClass": "Algorithms.Greedy.activitySelection",
+            "projectName": "Java DSA_ef5a02e2"
+        },
+        {
+            "type": "java",
             "name": "QueueUsingDeque",
             "request": "launch",
             "mainClass": "Deque.QueueUsingDeque",
