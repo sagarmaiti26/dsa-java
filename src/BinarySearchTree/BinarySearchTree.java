@@ -128,21 +128,36 @@ public class BinarySearchTree {
         }
         arrList.remove(arrList.size() - 1);
     }
-    //Validate BST
-    public static boolean validateBST(Node root,Node max, Node min){
-     if (root==null) {
-        return true;
-     }
-     if(min==null&&root.data>max.data){
-        return false;
-     }
-   
 
-     
+    // Validate BST
+    public static boolean validateBST(Node root, Node max, Node min) {
+        if (root == null) {
+            return true;
+        }
+        // for left part
+        if (min != null && root.data <= min.data) {
+            return false;
+        }
+        // for right part
+        if (max != null && root.data >= max.data) {
+            return false;
+        }
 
+        return validateBST(root.left, root, min) && validateBST(root.right, max, root);
+    }
 
+    // Mirror BST
+    public static void mirrorBST(Node root) {
+        if (root == null) {
+            return;
+        }
+        mirrorBST(root.left);
+        mirrorBST(root.right);
 
-        return validateBST(root.left, root, null)&&validateBST(root.right, null, root);
+        Node temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+
     }
 
     public static void main(String[] args) {
@@ -161,9 +176,14 @@ public class BinarySearchTree {
         inOrder(root);
         System.out.println();
         printOnRange(root, 4, 9);
-        ArrayList<Integer> arrList = new ArrayList<>();
+        // ArrayList<Integer> arrList = new ArrayList<>();
         System.out.println();
-        System.out.println("Root to Leaf");
-        rootToLeaf(root, arrList);
+        // System.out.println("Root to Leaf");
+        // rootToLeaf(root, arrList);
+        System.out.println("Validate BST");
+        System.out.println(validateBST(root, null, null));
+        mirrorBST(root);
+        inOrder(root);
+        System.out.println();
     }
 }

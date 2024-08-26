@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PriorityQueueImp",
+            "request": "launch",
+            "mainClass": "PriorityQueue.PriorityQueueImp",
+            "projectName": "Java DSA_11500ac"
+        },
+        {
+            "type": "java",
             "name": "BinarySearchTree",
             "request": "launch",
             "mainClass": "BinarySearchTree.BinarySearchTree",
