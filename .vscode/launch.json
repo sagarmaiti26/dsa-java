@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KNearest",
+            "request": "launch",
+            "mainClass": "PriorityQueue.KNearest",
+            "projectName": "Java DSA_11500ac"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heap.Heap",
+            "projectName": "Java DSA_11500ac"
+        },
+        {
+            "type": "java",
             "name": "PriorityQueueImp",
             "request": "launch",
             "mainClass": "PriorityQueue.PriorityQueueImp",
